@@ -4,8 +4,10 @@ I developed my skill in programming and problem solving in python through:
 * taking MIT 6.001 
 * reading [Python Documentation] (https://docs.python.org/3/)
 * and [Stackoverflow] (http://stackoverflow.com/questions/tagged/python)
-IDE: [Enthought Canopy](https://www.enthought.com/products/canopy/) *simple and robust platform
+
+<br> IDE: [Enthought Canopy](https://www.enthought.com/products/canopy/) *simple and robust platform*
 <br>
+
 This repo includes Algorithms OR Pseudocodes: 
   1. Linked-list printing
   2. Cube Root Guess
